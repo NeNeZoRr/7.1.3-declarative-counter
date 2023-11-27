@@ -9,6 +9,6 @@ function App(){
             <h4>{counter}</h4>
         </div>
     )
-}1
+}
 
 export default App;
